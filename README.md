@@ -19,3 +19,5 @@ The company collected the data on individuals who purchased a treadmill from the
 - Income:	Annual income (in $)
 - Fitness:	Self-rated fitness on a 1-to-5 scale, where 1 is the poor shape and 5 is the excellent shape.
 - Miles:	The average number of miles the customer expects to walk/run each week
+
+**Plese check aerofit-project.pdf file to view the solution**
